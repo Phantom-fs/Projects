@@ -17,3 +17,8 @@
 <p><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; UDT (User-Defined Data Type) Array based Program, data entry of Faculty, Students' detail and marks </i></p>
 
 ----
+
+- ## Deck of Cards
+<p><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ADT (Abstract Data Type) based C Program, Functions like Shuffling Dealing, etc. are present</i></p>
+
+----
