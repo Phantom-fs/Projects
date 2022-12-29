@@ -13,12 +13,12 @@
 
 ----
 
-- ## [College Database](https://github.com/Phantom-fs/Projects/tree/main/College%20Database%20(UDT%20Array%20Based)
+- ## [College Database](https://github.com/Phantom-fs/Projects/tree/main/College%20Database%20(UDT%20Array%20Based))
 <p><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; UDT (User-Defined Data Type) Array based Program, data entry of Faculty, Students' detail and marks </i></p>
 
 ----
 
-- ## [Deck of Cards](https://github.com/Phantom-fs/Projects/tree/main/Deck%20of%20Cards%20(ADT%20Based)
+- ## [Deck of Cards](https://github.com/Phantom-fs/Projects/tree/main/Deck%20of%20Cards%20(ADT%20Based))
 <p><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ADT (Abstract Data Type) based C Program, Functions like Shuffling Dealing, etc. are present</i></p>
 
 ----
