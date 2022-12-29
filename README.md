@@ -3,22 +3,22 @@
 
 ----
 
-- ## Weather Application(https://wwww.gggg.com)
+- ## [Weather Application](https://github.com/Phantom-fs/Projects/tree/main/Weather%20Application)
 <p><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GUI based program on weather data, data extraction from .csv files</i></p>
 
 ----
 
-- ## Export Data Application
+- ## [Export Data Application](https://github.com/Phantom-fs/Projects/tree/main/Exports%20Data%20Application)
 <p><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GUI based program on Export Data of countries, data extraction from .csv file</i></p>
 
 ----
 
-- ## College Database
+- ## [College Database](https://github.com/Phantom-fs/Projects/tree/main/College%20Database%20(UDT%20Array%20Based)
 <p><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; UDT (User-Defined Data Type) Array based Program, data entry of Faculty, Students' detail and marks </i></p>
 
 ----
 
-- ## Deck of Cards
+- ## [Deck of Cards](https://github.com/Phantom-fs/Projects/tree/main/Deck%20of%20Cards%20(ADT%20Based)
 <p><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ADT (Abstract Data Type) based C Program, Functions like Shuffling Dealing, etc. are present</i></p>
 
 ----
