@@ -1,5 +1,5 @@
 # Projects
-### Real Life applicable programs, multiple different concepts and ideas
+### Real Life applicable programs, with multiple different concepts and ideas
 
 ----
 
