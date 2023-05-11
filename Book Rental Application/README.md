@@ -9,6 +9,8 @@
 - Completely stand alone program
 - Download the Application from the APPLICATION folder
 
+*Download ER Diagram for the project from [here](https://github.com/Phantom-fs/Phantom-fs/blob/main/Media/ER%20Diagram.jpg)*
+
 ----
 
 ### NOTE : TO USE THE PROGRAM
@@ -31,4 +33,8 @@
 ----
 <p align="center">
 <img align="center" src="https://github.com/Phantom-fs/Phantom-fs/blob/main/Media/Application.png">
+</p>
+
+<p align="center">
+<img align="center" src="https://github.com/Phantom-fs/Phantom-fs/blob/main/Media/ER%20Diagram.jpg">
 </p>
