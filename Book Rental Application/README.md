@@ -26,7 +26,7 @@
 * You have to choose **.jar** file when adding the library
 * Links if using [**IntelliJ Idea**](https://www.geeksforgeeks.org/how-to-add-external-jar-file-to-an-intellij-idea-project/) or [**Eclipse**](http://mathcenter.oxford.emory.edu/site/cs170/externalLib/)
 
-*create the database using [database.sql](https://github.com/Phantom-fs/Projects/Book Rental Application/src/database.sql) file*
+*create the database using [**database.sql**](https://github.com/Phantom-fs/Projects/blob/main/Book%20Rental%20Application/src/database.sql) file*
 
 ----
 <p align="center">
