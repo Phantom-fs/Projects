@@ -6,8 +6,8 @@
 - Max accuracy of 88% on the test dataset, given by Quadratic SVM.
 
 ### Check out the pdf files, to view program summary
-- [Data Preparation](https://github.com/Phantom-fs/Projects/blob/main/Letter%20Classification/Data%20Preparation.pdf)
-- [Letter Classification](https://github.com/Phantom-fs/Projects/blob/main/Letter%20Classification/Letter%20Classification.pdf)
+- [Data Preparation](https://github.com/Phantom-fs/MATLAB-Programs/blob/main/Letter%20Classification/Data%20Preparation.pdf)
+- [Letter Classification](https://github.com/Phantom-fs/MATLAB-Programs/blob/main/Letter%20Classification/Letter%20Classification.pdf)
 
 *Download 'Files' folder from [here](https://drive.google.com/drive/folders/19G5SrOzyeAsUADwVyXunrUCaajSc4vji?usp=drive_link)*
 
