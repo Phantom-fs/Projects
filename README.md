@@ -3,13 +3,23 @@
 
 ----
 
-- ## [Book Rental Application](https://github.com/Phantom-fs/Projects/tree/main/Book%20Rental%20Application)
-<p><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GUI based JAVA program on book renting using MySQL</i></p>
+- ## [Flower Classification](https://github.com/Phantom-fs/Projects/tree/main/Flower%20Classification)
+<p><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Neural Network based program to identify different types of flowers</i></p>
+
+----
+
+- ## [Letter Classification](https://github.com/Phantom-fs/Projects/tree/main/Letter%20Classification)
+<p><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Handwritten digit data. ML algorithms to identify digits</i></p>
 
 ----
 
 - ## [Weather Application](https://github.com/Phantom-fs/Projects/tree/main/Weather%20Application)
 <p><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GUI based JAVA program on weather data, data extraction from .csv files</i></p>
+
+----
+
+- ## [Book Rental Application](https://github.com/Phantom-fs/Projects/tree/main/Book%20Rental%20Application)
+<p><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GUI based JAVA program on book renting using MySQL</i></p>
 
 ----
 
